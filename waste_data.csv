@@ -1,0 +1,6 @@
+item,problem,repair_suggestion,reuse_idea,materials,recycling_business
+Mobile,Screen damaged,Get the screen checked by a qualified technician,Reuse working camera or speaker if compatible,Glass metals and electronic components,Authorized e-waste recycler
+Laptop,Slow performance,Check storage battery and software condition,Reuse compatible RAM SSD or keyboard,Aluminium copper and electronic components,Electronics refurbisher or authorized e-waste recycler
+Battery,Low battery performance,Get the battery tested by a qualified technician,Reuse only if professionally confirmed safe,Potentially recoverable battery materials,Authorized battery recycler
+PCB,Burnt circuit board,Get the circuit board inspected by an electronics technician,Reuse tested components when compatible and safe,Copper and other potentially recoverable metals,Authorized e-waste recycler
+Keyboard,Some keys not working,Inspect the cable connections and keys,Reuse working keys cable or compatible parts,Plastic and electronic components,Electronics refurbisher or authorized e-waste recycler
